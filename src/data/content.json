@@ -1,0 +1,74 @@
+{
+    "hero": {
+      "title": "From Home to Horizons",
+      "subtitle": "We create architectural experiences that blend innovation with timeless design principles",
+      "cta": {
+        "primary": "View Our Work",
+        "secondary": "Get in Touch"
+      }
+    },
+    "about": {
+      "mission": {
+        "title": "Our Mission",
+        "description": "At Strait Arc, we believe architecture is more than buildings—it's about creating environments that inspire, function seamlessly, and stand the test of time. Our approach combines innovative design thinking with sustainable practices and meticulous attention to detail."
+      },
+      "philosophy": [
+        {
+          "title": "Human-Centric Design",
+          "description": "Every space we create is designed with people at its heart, ensuring comfort, functionality, and emotional connection."
+        },
+        {
+          "title": "Sustainable Innovation",
+          "description": "We integrate sustainable materials and energy-efficient systems without compromising aesthetic excellence."
+        },
+        {
+          "title": "Contextual Sensitivity",
+          "description": "Our designs respond to their environment, culture, and climate, creating harmony between structure and surroundings."
+        },
+        {
+          "title": "Timeless Aesthetics",
+          "description": "We pursue design that transcends trends, creating spaces that remain relevant and beautiful for generations."
+        }
+      ],
+      "achievements": [
+        {
+          "number": "150+",
+          "label": "Projects Completed"
+        },
+        {
+          "number": "25",
+          "label": "Awards Won"
+        },
+        {
+          "number": "12",
+          "label": "Years Experience"
+        },
+        {
+          "number": "98%",
+          "label": "Client Satisfaction"
+        }
+      ]
+    },
+    "services": [
+      {
+        "title": "Architecture",
+        "description": "Comprehensive architectural design from concept to completion, including master planning and site analysis.",
+        "icon": "building"
+      },
+      {
+        "title": "Interior Design",
+        "description": "Bespoke interior solutions that reflect your personality while maximizing functionality and comfort.",
+        "icon": "interior"
+      },
+      {
+        "title": "Landscape Design",
+        "description": "Creating outdoor spaces that complement architecture and enhance environmental sustainability.",
+        "icon": "landscape"
+      },
+      {
+        "title": "Consultation",
+        "description": "Expert guidance on design direction, feasibility studies, and project management strategies.",
+        "icon": "consultation"
+      }
+    ]
+  }

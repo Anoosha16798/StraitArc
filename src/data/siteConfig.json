@@ -1,0 +1,22 @@
+{
+    "siteName": "Strait Arc",
+    "tagline": "Crafting Spaces, Building Dreams",
+    "description": "An award-winning architecture and design studio specializing in contemporary residential and commercial spaces.",
+    "contact": {
+      "email": "sachi@straitArc.com",
+      "phone": "+91 12345 67890",
+      "address": "123 Design District, Bangalore, Karnataka 560001, India"
+    },
+    "social": {
+      "instagram": "https://instagram.com/straitArc",
+      "linkedin": "https://linkedin.com/company/straitArc",
+      "facebook": "https://facebook.com/straitArc",
+      "behance": "https://behance.net/straitArc"
+    },
+    "navigation": [
+      { "label": "Home", "path": "/" },
+      { "label": "Projects", "path": "/projects" },
+      { "label": "About", "path": "/about" },
+      { "label": "Contact", "path": "/contact" }
+    ]
+  }

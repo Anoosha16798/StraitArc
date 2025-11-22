@@ -1,0 +1,159 @@
+{
+    "projects": [
+      {
+        "id": "villa-serenity",
+        "title": "Villa Serenity",
+        "category": "residential",
+        "location": "Goa, India",
+        "year": 2023,
+        "area": "4,500 sq.ft",
+        "thumbnail": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800",
+        "images": [
+          "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1200",
+          "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200",
+          "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200",
+          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200"
+        ],
+        "featured": true,
+        "description": "A contemporary coastal villa that seamlessly blends indoor and outdoor living spaces.",
+        "details": "Villa Serenity embodies the essence of tropical modernism, featuring clean lines, expansive glass walls, and natural materials. The design maximizes ocean views while providing privacy through strategic landscaping. Sustainable features include rainwater harvesting, solar panels, and natural ventilation systems.",
+        "client": "Private Residence",
+        "tags": ["contemporary", "luxury", "sustainable", "coastal"]
+      },
+      {
+        "id": "urban-loft",
+        "title": "Urban Loft Residence",
+        "category": "residential",
+        "location": "Mumbai, India",
+        "year": 2023,
+        "area": "2,800 sq.ft",
+        "thumbnail": "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=800",
+        "images": [
+          "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1200",
+          "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1200",
+          "https://images.unsplash.com/photo-1600573472591-ee6b68d14c68?w=1200"
+        ],
+        "featured": true,
+        "description": "Industrial-chic loft transformation in the heart of Mumbai's cultural district.",
+        "details": "This adaptive reuse project transforms a former warehouse into a sophisticated urban dwelling. Exposed brick, steel beams, and concrete floors are complemented by modern amenities and custom furnishings. The open-plan layout maximizes natural light while creating distinct living zones.",
+        "client": "Private Residence",
+        "tags": ["industrial", "urban", "loft", "adaptive-reuse"]
+      },
+      {
+        "id": "mountain-retreat",
+        "title": "Mountain Retreat",
+        "category": "residential",
+        "location": "Himachal Pradesh, India",
+        "year": 2024,
+        "area": "3,200 sq.ft",
+        "thumbnail": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800",
+        "images": [
+          "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1200",
+          "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=1200",
+          "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=1200"
+        ],
+        "featured": false,
+        "description": "A secluded mountain home designed to harmonize with its natural surroundings.",
+        "details": "Nestled in the Himalayan foothills, this retreat uses local stone and timber to blend with the landscape. Large windows frame panoramic mountain views, while the compact footprint minimizes environmental impact. Passive solar design ensures comfort year-round.",
+        "client": "Private Residence",
+        "tags": ["mountain", "sustainable", "minimal", "nature"]
+      },
+      {
+        "id": "tech-campus",
+        "title": "Innovation Tech Campus",
+        "category": "commercial",
+        "location": "Bangalore, India",
+        "year": 2023,
+        "area": "85,000 sq.ft",
+        "thumbnail": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+        "images": [
+          "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200",
+          "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=1200",
+          "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200",
+          "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200"
+        ],
+        "featured": true,
+        "description": "A collaborative workspace designed to foster innovation and creativity.",
+        "details": "This tech campus reimagines the modern workplace with flexible spaces that adapt to various work modes. Green terraces, open collaboration zones, and private focus areas create a balanced work environment. LEED Platinum certified with extensive use of renewable energy and biophilic design principles.",
+        "client": "TechVentures Inc.",
+        "tags": ["commercial", "workspace", "LEED", "innovation"]
+      },
+      {
+        "id": "boutique-hotel",
+        "title": "Heritage Boutique Hotel",
+        "category": "hospitality",
+        "location": "Jaipur, India",
+        "year": 2022,
+        "area": "12,000 sq.ft",
+        "thumbnail": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+        "images": [
+          "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200",
+          "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200",
+          "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1200"
+        ],
+        "featured": false,
+        "description": "Restoration and conversion of a 19th-century haveli into a luxury boutique hotel.",
+        "details": "This sensitive restoration preserves original architectural elements while introducing modern hospitality standards. Traditional courtyards, carved stone facades, and hand-painted frescoes are complemented by contemporary interiors and state-of-the-art amenities.",
+        "client": "Heritage Hotels Group",
+        "tags": ["hospitality", "heritage", "restoration", "luxury"]
+      },
+      {
+        "id": "art-gallery",
+        "title": "Contemporary Art Gallery",
+        "category": "cultural",
+        "location": "Delhi, India",
+        "year": 2024,
+        "area": "6,500 sq.ft",
+        "thumbnail": "https://images.unsplash.com/photo-1554907984-15263bfd63bd?w=800",
+        "images": [
+          "https://images.unsplash.com/photo-1554907984-15263bfd63bd?w=1200",
+          "https://images.unsplash.com/photo-1577083552431-6e5fd01ea1c2?w=1200",
+          "https://images.unsplash.com/photo-1578926078640-e3e5c0e5c43d?w=1200"
+        ],
+        "featured": false,
+        "description": "A minimalist gallery space designed to showcase contemporary art.",
+        "details": "Clean white volumes and controlled natural lighting create the perfect backdrop for art. Flexible wall systems allow curators to reconfigure spaces for different exhibitions. The design balances architectural restraint with dramatic spatial experiences.",
+        "client": "Modern Art Foundation",
+        "tags": ["cultural", "gallery", "minimalist", "flexible"]
+      },
+      {
+        "id": "eco-resort",
+        "title": "Eco Resort & Spa",
+        "category": "hospitality",
+        "location": "Kerala, India",
+        "year": 2023,
+        "area": "35,000 sq.ft",
+        "thumbnail": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800",
+        "images": [
+          "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=1200",
+          "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=1200",
+          "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1200",
+          "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=1200"
+        ],
+        "featured": true,
+        "description": "A sustainable wellness resort integrated into a tropical rainforest setting.",
+        "details": "Built with minimal site disruption, this resort uses locally sourced materials and traditional construction techniques. Individual villas are elevated to preserve the forest floor, while a central spa pavilion offers panoramic canopy views. Zero-waste operations and organic farming complete the sustainable vision.",
+        "client": "Wellness Retreats International",
+        "tags": ["hospitality", "sustainable", "wellness", "tropical"]
+      },
+      {
+        "id": "community-center",
+        "title": "Community Arts Center",
+        "category": "cultural",
+        "location": "Pune, India",
+        "year": 2022,
+        "area": "15,000 sq.ft",
+        "thumbnail": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
+        "images": [
+          "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=1200",
+          "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200",
+          "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?w=1200"
+        ],
+        "featured": false,
+        "description": "A multi-functional community space promoting arts education and cultural exchange.",
+        "details": "This community hub features flexible performance spaces, art studios, and exhibition areas. The design emphasizes accessibility and inclusivity, with barrier-free circulation and adaptable spaces. A vibrant colored facade reflects the creative energy within.",
+        "client": "Pune Municipal Corporation",
+        "tags": ["cultural", "community", "education", "accessible"]
+      }
+    ]
+  }
