@@ -10,7 +10,8 @@ const Team = () => {
           A passionate group of architects and designers committed to excellence.
         </p>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {/* Center single card using mx-auto */}
+        <div className="max-w-md mx-auto">
           {teamData.team.map((member) => (
             <div key={member.id} className="bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow">
               <div className="aspect-square overflow-hidden">

@@ -12,3 +12,12 @@ export const PLACEHOLDER_IMAGES = {
     landscape: '🌳',
     consultation: '💡',
   };
+
+  export const LOGO = {
+  FULL_BROWN: '/images/logo/logo-icon-brown.jpg',
+  FULL_BLACK: '/images/logo/logo-full-black.jpg',
+  FULL_WHITE: '/images/logo/logo-full-white.jpg',
+  ICON_BROWN: '/images/logo/Brown.jpg',
+  ICON_BLACK: '/images/logo/Black.jpg',
+  ICON_WHITE: '/images/logo/White.jpg',
+};
