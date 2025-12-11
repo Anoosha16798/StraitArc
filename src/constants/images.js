@@ -14,6 +14,7 @@ export const PLACEHOLDER_IMAGES = {
   };
 
   export const LOGO = {
+    primary: "/images/logo/SA-Logo_Brown.jpg",
   FULL_BROWN: '/images/logo/logo-icon-brown.jpg',
   FULL_BLACK: '/images/logo/logo-full-black.jpg',
   FULL_WHITE: '/images/logo/logo-full-white.jpg',

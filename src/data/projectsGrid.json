@@ -1,0 +1,143 @@
+{
+  "intro": {
+    "title": "Designing Homes That Hold Stories",
+    "subtitle": "A quiet scroll through living rooms, kitchens, and corners we’ve shaped — with stills, soft clips, and client words."
+  },
+  "blocks": [
+    {
+      "id": "hero-1",
+      "type": "image-wide",
+      "src": "/images/projects/kitchen.jpeg",
+      "alt": "Neutral living room with soft sofa and warm light"
+    },
+
+    {
+      "id": "row-1-left",
+      "type": "image-vertical",
+      "projectId": "courtyard-apartment",
+      "src": "/images/projects/show-case.jpeg",
+      "alt": "Courtyard apartment living room"
+    },
+    
+    {
+      "id": "row-1-right",
+      "type": "story",
+      "projectId": "courtyard-apartment",
+      "eyebrow": "Courtyard apartment",
+      "heading": "A calm spine that quietly connects rooms.",
+      "body": "Living, dining, and study are arranged along one clear axis. Storage is absorbed into walls so the floor stays open for everyday movement and light.",
+      "tags": ["2 BHK", "Renovation", "City home"]
+    },
+
+    {
+      "id": "row-2-left",
+      "type": "story",
+      "projectId": "material-story",
+      "eyebrow": "Material story",
+      "heading": "Quiet geometry, warm tactility.",
+      "body": "Ribbed panels, soft upholstery, and timber details sit over a very simple plan, so the home can evolve without ever feeling busy.",
+      "tags": ["Warm neutrals", "Low maintenance", "Long‑term use"]
+    },
+    {
+      "id": "row-2-right",
+      "type": "image-vertical",
+      "projectId": "material-story",
+      "src": "https://images.unsplash.com/photo-1523755231516-e43fd2e8dca5?auto=format&fit=crop&w=1100&q=80",
+      "alt": "Soft living room with warm indirect light and artwork"
+    },
+
+    {
+      "id": "row-3-left",
+      "type": "image-vertical",
+      "projectId": "kitchen-suite",
+      "src": "/images/projects/elephant.jpeg",
+      "alt": "Minimalist kitchen with warm timber and white cabinetry"
+    },
+    {
+      "id": "row-4-left",
+      "type": "image-vertical",
+      "projectId": "kitchen-suite",
+      "src": "/images/projects/hall.jpeg",
+      "alt": "Minimalist kitchen with warm timber and white cabinetry"
+    },
+    {
+      "id": "row-5-left",
+      "type": "image-vertical",
+      "projectId": "kitchen-suite",
+      "src": "/images/projects/mirror.jpeg",
+      "alt": "Minimalist kitchen with warm timber and white cabinetry"
+    },
+    {
+      "id": "row-4-right",
+      "type": "image-vertical",
+      "projectId": "kitchen-suite",
+      "src": "/images/projects/kitchen.jpeg",
+      "alt": "Minimalist kitchen with warm timber and white cabinetry"
+    },
+    {
+      "id": "row-7-right",
+      "type": "image-vertical",
+      "projectId": "kitchen-suite",
+      "src": "/images/projects/blue-sofa.jpeg",
+      "alt": "Minimalist kitchen with warm timber and white cabinetry"
+    },
+    {
+      "id": "row-3-right",
+      "type": "story",
+      "projectId": "kitchen-suite",
+      "eyebrow": "Kitchen suite",
+      "heading": "Storage‑first, then styling.",
+      "body": "Tall units hide appliances and pantry so the working counters feel light. The kitchen reads as part of the living room, not a separate zone.",
+      "tags": ["Open kitchen", "Hidden storage", "Family use"]
+    },
+
+    {
+      "id": "row-4-left",
+      "type": "video",
+      "projectId": "courtyard-apartment",
+      "src": "https://assets.mixkit.co/videos/preview/mixkit-interior-of-a-room-with-terrace-4029-large.mp4",
+      "label": "Living room clip",
+      "caption": "A calm interior opening to a terrace, captured the way it feels when you first wake up."
+    },
+    {
+      "id": "row-4-right",
+      "type": "testimonial",
+      "quote": "We finally have a living room that feels effortless — there’s a place for everything without the space feeling full.",
+      "name": "Akshay Dhavle",
+      "role": "Homeowner"
+    },
+
+    {
+      "id": "row-5-left",
+      "type": "video",
+      "projectId": "bedroom-suite",
+      "src": "https://assets.mixkit.co/videos/preview/mixkit-bedroom-with-large-window-and-curtains-3995-large.mp4",
+      "label": "Bedroom clip",
+      "caption": "A soft bedroom with neutral bedding and curtains, shown in a quiet walkthrough."
+    },
+    {
+      "id": "row-5-right",
+      "type": "image-vertical",
+      "projectId": "bedroom-suite",
+      "src": "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1100&q=80",
+      "alt": "Minimal bedroom with soft textiles and warm light"
+    },
+
+    {
+      "id": "row-6-left",
+      "type": "story",
+      "projectId": "bedroom-suite",
+      "eyebrow": "Bedroom suite",
+      "heading": "Layered light for slow evenings.",
+      "body": "Ceiling, wall, and bedside lights sit on separate circuits so the room can move from practical to completely calm.",
+      "tags": ["Bedroom", "Lighting layers", "Slow living"]
+    },
+    {
+      "id": "row-6-right",
+      "type": "testimonial",
+      "quote": "The bedroom finally feels like a retreat. We use the reading corner more than expected because it is naturally lit and comfortable.",
+      "name": "Vidya Rajagopal",
+      "role": "Homeowner"
+    }
+  ]
+}
