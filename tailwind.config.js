@@ -1,52 +1,28 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-    content: [
-      "./index.html",
-      "./src/**/*.{js,ts,jsx,tsx}",
-    ],
-    theme: {
-      extend: {
-        colors: {
-           primary: '#1a1a1a',
-        secondary: '#666666',
-        accent: '#8B4513',
-          neutral: {
-            50: '#fafafa',
-            100: '#f5f5f5',
-            200: '#e5e5e5',
-            300: '#d4d4d4',
-            400: '#a3a3a3',
-            500: '#737373',
-            600: '#525252',
-            700: '#404040',
-            800: '#262626',
-            900: '#171717',
-          }
-        },
-        fontFamily: {
-          sans: ['Inter', 'system-ui', 'sans-serif'],
-          serif: ['Playfair Display', 'Georgia', 'serif'],
-        },
-        spacing: {
-          '128': '32rem',
-          '144': '36rem',
-        },
-        animation: {
-          'fade-in': 'fadeIn 0.6s ease-in-out',
-          'slide-up': 'slideUp 0.6s ease-out',
-        },
-      keyframes: {
-        fadeIn: {
-          '0%': { opacity: '0', transform: 'scale(0.95)' },
-          '100%': { opacity: '1', transform: 'scale(1)' },
-        },
-        slideUp: {
-          '0%': { opacity: '0', transform: 'translateY(20px)' },
-          '100%': { opacity: '1', transform: 'translateY(0)' },
-        },
+  content: ["./index.html", "./src/**/*.{js,jsx,ts,tsx}"],
+  theme: {
+    extend: {
+      colors: {
+        sa_bg: "#f5f2ee",
+        sa_ink: "#1f1f1f",
+        sa_muted: "#666666",
+        sa_accent: "#b48a5a",   // pick from your logo brown
+        sa_line: "#ded4c6",
       },
-      },
-    },
-    plugins: [],
+      // fontFamily: {
+      //   sans: ["Inter", "system-ui", "sans-serif"],
+      //   display: ["DM Serif Display", "serif"],
+      // },
+  
+  fontFamily: {
+    sans: ["General Sans", "system-ui", "sans-serif"],
+    display: ["Fraunces", "serif"]
   }
+
+
+    },
+  },
+  plugins: [],
+};
   

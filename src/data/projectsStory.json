@@ -1,0 +1,45 @@
+{
+    "projects": [
+      {
+        "id": "project-1",
+        "title": "Courtyard Apartment",
+        "location": "Bangalore",
+        "year": "2024",
+        "tags": ["Residential", "Interior Architecture"],
+        "heroImage": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=1200",
+        "storyBlocks": [
+          {
+            "type": "image",
+            "layout": "wide",
+            "src": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1600",
+            "caption": "Living, dining, and circulation stitched into one continuous volume."
+          },
+          {
+            "type": "text",
+            "eyebrow": "Client note",
+            "heading": "A home that finally feels like us.",
+            "body": "The brief was simple: remove visual noise, bring in light, and make every corner genuinely usable. The plan reorganises structural constraints into quiet, functional pockets that still feel expansive."
+          },
+          {
+            "type": "image",
+            "layout": "split",
+            "src": "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?w=900",
+            "caption": "Warm timber, soft light, and a neutral shell keep the space calm."
+          },
+          {
+            "type": "video",
+            "layout": "split",
+            "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+            "caption": "A slow walk-through capturing the shift from public to private spaces."
+          },
+          {
+            "type": "quote",
+            "quote":
+              "We didn’t realise how much a clear layout would change our everyday rituals. The house feels lighter, calmer, and more intentional.",
+            "attribution": "Homeowners, Courtyard Apartment"
+          }
+        ]
+      }
+    ]
+  }
+  
